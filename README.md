@@ -1,6 +1,5 @@
 # hello-world
-tutorial project
-This is the first 
-test on github.
-I think it is awesome
-Test
+This is the first test on github 
+Github is a code hosting for 
+version control and collaboration
+
